@@ -2,6 +2,6 @@
     reference = "locales/en.json"
     l10n = "locales/{locale}/file.json"
     locales = [
-        "de",
+        "ru",
         "fr",
     ]
