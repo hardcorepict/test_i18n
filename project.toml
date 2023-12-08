@@ -1,3 +1,4 @@
+basepath = "."
 [[paths]]
     reference = "locales/en.json"
     l10n = "locales/{locale}/file.json"
