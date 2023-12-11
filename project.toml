@@ -1,10 +1,22 @@
+# basepath = "."
+# [[paths]]
+#     reference = "locales/en/file.json"
+#     l10n = "locales/{locale}/file.json"
+#     locales = [
+#         "ru",
+#         "fr",
+#         "es",
+#         "it"
+#     ]
 basepath = "."
+
+locales = [
+    "es",
+    "fr",
+    "it",
+    "ru"
+]
+
 [[paths]]
     reference = "locales/en/file.json"
     l10n = "locales/{locale}/file.json"
-    locales = [
-        "ru",
-        "fr",
-        "es",
-        "it"
-    ]
