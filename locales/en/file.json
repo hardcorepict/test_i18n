@@ -1,6 +1,15 @@
 {
   "HELP": "Can you help me?",
   "FIX": "Can you fix it?",
-  "DONE": "Well done!"
-  "WELCOME": "Nice to meet you!"
+  "DONE": "Well done!",
+  "WELCOME": "Nice to meet you!",
+  "ERROR_UNABLE_TO_ADD_BOOKMARK": ":woman_shrugging: I can't add a new bookmark, please try again later",
+  "ERROR_UNABLE_TO_DOWNLOAD_FILE": ":woman_shrugging: I can't download this file for the translation",
+  "ERROR_UNABLE_TO_GET_LANGUAGES": "Unable to retrieve languages list :confused:",
+  "ERROR_UNABLE_TO_GET_LOCALES": "Unable to retrieve locales list :confused:",
+  "ERROR_UNABLE_TO_PARSE_IMAGE": "Sorry, I can't recognize this picture. :confused:",
+  "ERROR_UNABLE_TO_RECOGNIZE_AUDIO": "Sorry, I can't recognize this audio. :confused:",
+  "ERROR_UNABLE_TO_REMOVE_BOOKMARK": ":woman_shrugging: I can't remove the bookmark this time. Please try again later",
+  "ERROR_UNABLE_TO_SWITCH_LANGUAGES": "The destination language cannot be automatically recognized. Please select language to translate from first.",
+  "ERROR_UNABLE_TO_SYNTHESIZE_AUDIO": "Sorry, I can't convert this text to audio. :confused:"
 }
