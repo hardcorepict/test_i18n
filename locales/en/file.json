@@ -2,4 +2,5 @@
   "HELP": "Can you help me?",
   "FIX": "Can you fix it?",
   "DONE": "Well done!"
+  "WELCOME": "Nice to meet you, {user}!"
 }
